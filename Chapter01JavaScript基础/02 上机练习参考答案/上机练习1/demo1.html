@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>使用数组存储一组字符串，并统计包含"a"或"A"的字符串的个数</title>
+    <script type="text/javascript">
+        var countries = ["America", "Greece", "Britain", "Canada", "China", "Egypt"];
+        var count = 0;
+        document.write("在以下字符串:<br/>")
+        for (var i = 0; i < countries.length; i++) {
+            document.write(countries[i]+"<br/>");
+            if (countries[i].indexOf("a") != -1 || countries[i].indexOf("A") != -1) {
+                count++;
+            }
+        }
+        document.write("共有" + count + "个字符中串包含a或A。");
+    </script>
+</head>
+<body>
+
+</body>
+</html>
