@@ -2,31 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="054362e2-10d1-4d40-b51d-f603bc22ff91" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习2/images/aftermoon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习2/images/moon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习2/images/smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/00 课程预习内容/第二章JavaScript操作BOM对象.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/aftermoon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/moon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/01 教学演示案例/示例6parseInt的应用/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/01 教学演示案例/示例7无参函数的应用/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/01 教学演示案例/示例8有参函数的应用/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/01 教学演示案例/示例9变量的作用域/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习2/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习3/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/02 上机练习参考答案/上机练习4/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/03 作业参考答案/作业第3题/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/03 作业参考答案/作业第4题/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter01JavaScript基础/03 作业参考答案/作业第5题/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习1/demo1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习3/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习4/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第3题/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第4题/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第5题/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/images/adver.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/images/dd_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/images/shopping.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/images/dd_logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/images/shoppingBg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/css/cartStyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/js/shopping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/shopping.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/00 课程预习内容/第二章JavaScript操作BOM对象.docx" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/00 课程预习内容/第二章JavaScript操作BOM对象.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习1/demo1.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/adv.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/aftermoon.gif" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/images/aftermoon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/moon.gif" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/images/moon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/images/smile.gif" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/images/smile.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习3/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习3：完善当当购物车页面/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习4/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例1确认对话框/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第3题/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/03 作业参考答案/作业第3题/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第4题/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/03 作业参考答案/作业第4题/demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Chapter02/03 作业参考答案/作业第5题/demo.html" afterPath="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/03 作业参考答案/作业第5题/demo.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,48 +39,7 @@
     <favorites_list name="ACCP8.0S204JQUERY" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="demo1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习1/demo1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习3/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习4/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,6 +82,12 @@
         <option value="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/demo.html" />
         <option value="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习3/demo.html" />
         <option value="$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习4/demo.html" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例1确认对话框/demo.html" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/demo.html" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/adv.html" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/index.html" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/js/shopping.js" />
+        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/shopping.html" />
       </list>
     </option>
   </component>
@@ -202,7 +163,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter02" />
+              <option name="myItemId" value="Chapter02JavaScript操作BOM对象" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter02JavaScript操作BOM对象" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02 上机练习参考答案" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter02JavaScript操作BOM对象" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01 教学演示案例" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="示例2window对象操作窗口" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACCP8.0S204JQUERY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter02JavaScript操作BOM对象" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01 教学演示案例" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -222,11 +241,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter02JavaScript操作BOM对象\02 上机练习参考答案\练习1：制作简易的当当购物车页面\js" />
+      <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter02JavaScript操作BOM对象\02 上机练习参考答案\练习1：制作简易的当当购物车页面" />
+      <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter02JavaScript操作BOM对象\02 上机练习参考答案\上机练习1" />
+      <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter02JavaScript操作BOM对象\01 教学演示案例\示例2window对象操作窗口" />
       <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter02" />
-      <recent name="D:\编程语言\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter01JavaScript基础\02 上机练习参考答案\上机练习2" />
-      <recent name="D:\Language\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter01JavaScript基础\01 教学演示案例\示例3" />
-      <recent name="D:\Language\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter01JavaScript基础\01 教学演示案例" />
-      <recent name="D:\Language\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Language\GitHub\ACCPS2\ACCP8.0S204JQUERY\Chapter01JavaScript基础\01 教学演示案例" />
@@ -361,12 +380,12 @@
       <workItem from="1490433692858" duration="96000" />
       <workItem from="1490767185052" duration="8797000" />
       <workItem from="1491106981021" duration="2435000" />
-      <workItem from="1491544559102" duration="5381000" />
+      <workItem from="1491544559102" duration="7339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16709000" />
+    <option name="totallyTimeSpent" value="18667000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,6 +416,24 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.270625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22964169" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -579,7 +616,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习1/demo1.html">
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/上机练习1/demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
@@ -587,7 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习2/demo.html">
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
@@ -595,7 +632,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习3/demo.html">
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习3：完善当当购物车页面/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -603,10 +640,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter02/02 上机练习参考答案/上机练习4/demo.html">
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/上机练习4/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例1确认对话框/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/adv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/css/cartStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/shopping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/js/shopping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="20" />
           <folding />
         </state>
       </provider>
