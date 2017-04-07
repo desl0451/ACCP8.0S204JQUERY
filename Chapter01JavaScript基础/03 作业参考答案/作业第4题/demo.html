@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>验证邮箱有效性</title>
+    <script type="text/javascript">
+        function chkEmail() {
+            var n = prompt("请输入正确的邮箱地址:", "susan@shu.com");
+            var quan = n.indexOf("@");
+            var dian = n.indexOf(".");
+            if (n.length == 0) {
+                alert("邮箱不能为空!");
+                return;
+            }
+            if (quan == -1 || dian == -1) {
+                alert("邮箱地址必须包含@和.");
+                return;
+            }
+
+            alert("邮箱地址正确,邮箱名称是:" + n);
+        }
+    </script>
+</head>
+<body>
+<input type="button" onclick="chkEmail()" value="验证邮箱有效性"/>
+</body>
+</html>

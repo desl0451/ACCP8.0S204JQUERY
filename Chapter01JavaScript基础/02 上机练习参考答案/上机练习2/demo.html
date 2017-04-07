@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>根据时间问好</title>
+</head>
+<body>
+<script type="text/javascript">
+    var i = prompt("请输入时间:");
+    if (i >= 6 && i <= 12) {
+        document.write("<h1>上午好欢迎来到贵美</h1>");
+        for (var n = 1; n <= i; n++) {
+            document.write("<img src='images/smile.gif'/>");
+        }
+    } else if (i >= 13 && i <= 20) {
+        document.write("<h1>下午好欢迎来到贵美</h1>");
+        for (var n = 1; n <= i; n++) {
+            document.write("<img src='images/aftermoon.gif'/>");
+        }
+    } else {
+        document.write("<h1>深夜了该休息了</h1>");
+        for (var n = 1; n <= i; n++) {
+            document.write("<img src='images/moon.gif'/>");
+        }
+    }
+</script>
+</body>
+</html>
