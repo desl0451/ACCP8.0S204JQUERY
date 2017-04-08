@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>时钟特效</title>
+</head>
+<body>
+<div id="myclock"></div>
+<input type="button" onclick="javascript:clearInterval(myTime)" value="停止">
+<script type="text/javascript">
+    function disptime() {
+        var date = new Date();
+        var hh = date.getHours();
+        var mm = date.getMinutes();
+        var ss = date.getSeconds();
+        document.getElementById("myclock").innerHTML = "现在的时间是:" + hh + ":" + mm + ":" + ss;
+    }
+    var myTime = setInterval("disptime()", 1000);
+</script>
+</body>
+</html>

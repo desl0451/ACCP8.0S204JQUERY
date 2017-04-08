@@ -5,29 +5,15 @@
     <title>休息提示信息</title>
     <script type="text/javascript">
         function op() {
-            var p = prompt("请输入今天是星期几:");
-            switch (p) {
-                case "星期一":
-                    alert("新的一周开始了!");
-                    break;
-                case "星期二":
-                case "星期三":
-                case "星期四:":
-                    alert("努力工作!");
-                    break;
-                case "星期五":
-                    alert("明天就是周末了!")
-                    break;
-                default:
-                    alert("放松的休息!");
-                    break;
-            }
-
+            var fruits = Array("apple", "pear", "peach", "orange", "banana");
+            var rand = Math.ceil(Math.random() * 5)-1;
+            document.getElementById("clock").innerHTML = "您得到的水果是:" + fruits[rand];
         }
-
+        var myTime = setInterval("op()", 1000);
     </script>
 </head>
 <body>
-<input type="button" onclick="op()" value="提示"/>
+<div id="clock"></div>
+
 </body>
 </html>

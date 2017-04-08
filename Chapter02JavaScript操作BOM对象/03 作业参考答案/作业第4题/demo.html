@@ -2,26 +2,28 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>验证邮箱有效性</title>
+    <title>根据当前时间显示问候语</title>
     <script type="text/javascript">
-        function chkEmail() {
-            var n = prompt("请输入正确的邮箱地址:", "susan@shu.com");
-            var quan = n.indexOf("@");
-            var dian = n.indexOf(".");
-            if (n.length == 0) {
-                alert("邮箱不能为空!");
-                return;
-            }
-            if (quan == -1 || dian == -1) {
-                alert("邮箱地址必须包含@和.");
-                return;
-            }
+        function disptime() {
+            var now = new Date();
+            var year = now.getFullYear();
+            var month = now.getMonth() + 1;
+            var date = now.getDate();
 
-            alert("邮箱地址正确,邮箱名称是:" + n);
+            var hour = now.getHours();
+            var minute = now.getMinutes();
+            var m = "";
+            if (hour < 12) {
+                m = "上午好";
+            } else {
+                m = "下午好";
+            }
+            document.getElementById("clock").innerHTML = "<h1>今天日期:" + year + "年" + month + "月"+date+"<br/>"+"现在时间:"+hour+"点"+minute+"分"+"<br/>"+m+"!欢迎来到贵美</h1>"
         }
+        var myTime = setInterval("disptime()", 1000);
     </script>
 </head>
 <body>
-<input type="button" onclick="chkEmail()" value="验证邮箱有效性"/>
+<div id="clock"></div>
 </body>
 </html>

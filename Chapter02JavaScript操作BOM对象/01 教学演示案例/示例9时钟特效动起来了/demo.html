@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>时钟特效</title>
+</head>
+<body>
+<div id="myclock"></div>
+<script type="text/javascript">
+    function disptime() {
+        var today = new Date();
+        var hh = today.getHours();
+        var mm = today.getMinutes();
+        var ss = today.getSeconds();
+        document.getElementById("myclock").innerHTML = "现在是:" + hh + ":" + mm + ":" + ss;
+    }
+    var myTime = setInterval("disptime()", 1000);
+</script>
+</body>
+</html>
