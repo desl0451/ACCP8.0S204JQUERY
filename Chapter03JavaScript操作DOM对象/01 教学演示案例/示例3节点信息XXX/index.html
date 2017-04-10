@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>示例3节点信息</title>
+</head>
+<body>
+
+<ul id="nodeList">
+    <li>nodeName</li>
+    <li>nodeValue</li>
+    <li>nodeType</li>
+</ul>
+<p></p>
+<script>
+    var nodes = document.getElementById("nodeList");
+    var type1 = nodes.firstElementChild.nodeType;
+    var type2 = nodes.firstElementChild.firstElementChild.nodeName;
+
+    document.getElementById("nodeList").nextElementSibling.innerHTML = type2;
+</script>
+</body>
+</html>
