@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>创建person对象</title>
+    <style>
+        body {
+            line-height: 30px;
+        }
+    </style>
+</head>
+<body>
+<div id="intro"></div>
+<div id="xiaobaobao"></div>
+<script type="text/javascript">
+    var person = {
+        name: "追风小宝",
+        age: "38",
+        job: "中国内地男演员、歌手",
+        address: "中国北京海淀区",
+        intro:function () {
+            var str = "姓名:" + this.name + "<br/>年龄:" + this.age + "<br/>工作:" + this.job + "<br/>住址:" + this.address;
+            document.getElementById("intro").innerHTML = str;
+        }
+    };
+    person.intro();
+    var xiaobao=new Object();
+    xiaobao.name="小宝";
+    xiaobao.age="5";
+    xiaobao.job="软件开发";
+    xiaobao.address="哈尔滨";
+    xiaobao.intro=function () {
+        var str = "姓名:" + xiaobao.name + "<br/>年龄:" + xiaobao.age + "<br/>工作:" + xiaobao.job + "<br/>住址:" + xiaobao.address;
+        document.getElementById("xiaobaobao").innerHTML = str;
+    }
+    xiaobao.intro();
+</script>
+</body>
+</html>

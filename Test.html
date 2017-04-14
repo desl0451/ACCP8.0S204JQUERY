@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function op() {
+            //document.getElementById("txt").setAttribute("value","小宝");
+            document.getElementById("txt").text="大宝";
+        }
+        function tt() {
+            document.getElementById("main").cloneNode(true);
+        }
+    </script>
+</head>
+<body>
+<div id="main">
+    <input type="text" value="XXXX" id="txt"/>
+    <img src="Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习4：制作带关闭按钮的滚动广告/images/advpic.jpg" alt="">
+</div>
+<input type="button" onclick="tt()" >
+</body>
+</html>
