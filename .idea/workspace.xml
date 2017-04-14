@@ -11,10 +11,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业3：显示不同的图片/images/3.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业3：显示不同的图片/images/4.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业3：显示不同的图片/images/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/images/menu1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/images/menu2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/00 课程预习内容/第二章JavaScript操作BOM对象.docx" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/01 教学演示案例/示例8随鼠标滚动的广告图片/scroll.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习4：制作带关闭按钮的滚动广告/js/colse.js" />
@@ -24,34 +20,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业4：上传文件/js/upload.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业4：上传文件/upload.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/css/tab.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业5：TAB切换/tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例10：借用构造函数传递参数/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例11：组合继承/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例1：创建对象/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例2：字面量创建对象/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例3：构造函数/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例4：构造函数优化/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例6：原型链/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例7：给原型添加方法/给原型添加方法.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例8：原型链的问题/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例9：借用构造函数/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/02 上机练习参考答案/练习1：创建person对象/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/02 上机练习参考答案/练习2：创建Person函数/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/02 上机练习参考答案/练习3：画原型链图/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/02 上机练习参考答案/练习4：创建继承Person的Student子类/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/03 作业参考答案/作业3：创建对象显示自我介绍/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/03 作业参考答案/作业4：创建构造函数显示自我介绍/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter04/03 作业参考答案/作业5：继承的练习/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-3.2.1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-3.2.1.min.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业第3题/images/viruse.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/03 作业参考答案/作业第3题/images/webPic.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习4：制作带关闭按钮的滚动广告/colse.html" afterPath="$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习4：制作带关闭按钮的滚动广告/colse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html" afterPath="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -70,10 +44,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter04/01 教学演示案例/示例4：构造函数优化/index.html">
+        <entry file="file://$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -96,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例2window对象操作窗口/index.html" />
         <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/js/shopping.js" />
         <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习1：制作简易的当当购物车页面/shopping.html" />
         <option value="$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习2：查看一年四季变化/index.html" />
@@ -147,6 +120,7 @@
         <option value="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例2：字面量创建对象/index.html" />
         <option value="$PROJECT_DIR$/Chapter04/02 上机练习参考答案/练习1：创建person对象/index.html" />
         <option value="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例3：构造函数/index.html" />
+        <option value="$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html" />
       </list>
     </option>
   </component>
@@ -267,7 +241,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="示例4：构造函数优化" />
+              <option name="myItemId" value="示例5：原型对象" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -450,12 +424,12 @@
       <workItem from="1491956770700" duration="205000" />
       <workItem from="1491961097342" duration="164000" />
       <workItem from="1492149219347" duration="2351000" />
-      <workItem from="1492152214411" duration="5545000" />
+      <workItem from="1492152214411" duration="5710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55868000" />
+    <option name="totallyTimeSpent" value="56033000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,7 +441,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.245625" sideWeight="0.4874372" order="0" side_tool="false" content_ui="combo" />
@@ -504,13 +478,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/02 上机练习参考答案/练习3：完善当当购物车页面/js/shopping.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="55" column="8" lean-forward="false" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter02JavaScript操作BOM对象/01 教学演示案例/示例6时钟特效/clock.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -860,6 +827,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter04/01 教学演示案例/示例5：原型对象/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding />
         </state>
       </provider>
