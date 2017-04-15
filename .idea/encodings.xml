@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
-    <file url="file://$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习3：制作课工场论坛发贴/css/bbs.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter03JavaScript操作DOM对象/02 上机练习参考答案/练习3：制作课工场论坛发贴/css/bbs.css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter05初识jQuery/02 上机练习参考答案/xxx练习4：制作轮播切换效果xxx/css/style.css" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
